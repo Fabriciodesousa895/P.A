@@ -46,3 +46,4 @@ const valores = [4,[2,10,18]]
 console.log(PA(...valores));
 
 //neste caso o quarto termo da P.A será 26
+//obs: a contagem do array comeca em 0
